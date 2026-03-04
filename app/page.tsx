@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex justify-center min-h-vh">
+    <div className="flex justify-center min-h-screen">
       Proceed to do app
     </div>
   );
